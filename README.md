@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Projects<br>👯 I’m looking to collaborate on Open Source<br>🤝 I’m looking for help with React / JS<br>🌱 I’m currently learning CSS Animations<br>💬 Ask me about HTML, CSS, JavaScript, React.js, Tailwind CSS, Github<br>⚡ Fun fact: I turn coffee into code ☕
+🔭 I’m currently working on Frontend Projects<br>👯 I’m looking to collaborate on Open Source<br>🤝 I’m looking for help with React / JS<br>🌱 I’m currently exploring AI,animation library<br>💬 Ask me about HTML, CSS, JavaScript, React.js, Tailwind CSS, Github<br>⚡ Fun fact: I turn coffee into code ☕
 
 
 ## 🌐 Socials:
