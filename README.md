@@ -72,16 +72,4 @@ Built with AI tools under my direction (my role: idea, design direction, assets 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=sanjeet-saini&theme=dark&hide_border=true&count_private=false" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanjeet-saini&theme=dark&hide_border=true&layout=compact" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanjeet-saini&theme=dark&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 <p align="center">📫 Open to internship and entry-level frontend roles — reach me at <a href="mailto:sanjeetsaini91@gmail.com">sanjeetsaini91@gmail.com</a></p>
